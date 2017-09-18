@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoneyHelper</string>
+
+    <string-array name="tipos_cuentas">
+        <item>Tarjeta de Credito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+    </string-array>
+
+</resources>
